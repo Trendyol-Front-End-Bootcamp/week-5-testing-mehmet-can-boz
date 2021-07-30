@@ -5,7 +5,7 @@ This is a Trendyol Frontend Bootcamp testing homework.
 
 * q1-The test of the division function that takes 2 parameters, throws an error if the parameters are not numbers or the 2nd parameter is 0.
 * q2-Testing the function that returns the first letters of a given parameter in capital letters
-* q3-Testing a function that returns the title of posts of user who post most
+* q3-Testing a function that returns the title of posts of user who post most [POST API](https://jsonplaceholder.typicode.com/posts)
 
 ##  Testing Result
 
