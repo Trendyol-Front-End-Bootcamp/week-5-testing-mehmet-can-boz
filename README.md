@@ -9,7 +9,7 @@ This is a Trendyol Frontend Bootcamp testing homework.
 
 ##  Testing Result
 
-<img src="images/test-result.JPG" alt="test-result>
+<img src="images/test-result.JPG" alt="test-result" />
 
 ## Installation
 
