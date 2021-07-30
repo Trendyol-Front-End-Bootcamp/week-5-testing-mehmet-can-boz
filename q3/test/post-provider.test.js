@@ -1,4 +1,4 @@
-import { PostProvider } from "../src/post-provider";
+import { PostProvider } from "../../src/post-provider";
 import axios from "axios";
 
 jest.mock("axios");
